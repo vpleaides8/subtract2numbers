@@ -38,3 +38,4 @@ output = a-b
 st.write('Answer:')
 st.write(output)
 
+!pip requirements.txt
